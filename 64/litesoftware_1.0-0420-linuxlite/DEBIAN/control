@@ -8,5 +8,5 @@ Depends: apt, zenity, gksu
 Section: base
 Priority: required
 Homepage: http://www.linuxliteos.com
-Description: Linux Lite Install Additional Software Dialogue
- A tool to easily install and remove additional software in Linux Lite.
+Description: Lite Software
+ A tool to easily install and remove popular software in Linux Lite.
