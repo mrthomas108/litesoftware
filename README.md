@@ -1,4 +1,4 @@
-litesoftware
+Lite Software
 ================
 
 Authors - Jerry Bezencon, Misko_2083, gerito1
