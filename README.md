@@ -1,7 +1,7 @@
 litesoftware
 ================
 
-Authors - Misko_2083, Jerry Bezencon
+Authors - Jerry Bezencon, Misko_2083, gerito1
 
 A gui tool to easily install and remove popular software.
 
