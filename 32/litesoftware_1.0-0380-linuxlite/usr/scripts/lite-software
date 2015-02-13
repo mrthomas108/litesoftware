@@ -282,7 +282,7 @@ pkg_manager_check
 # The main loop
 while (true); do
   TASK=$(zenity --width=250 --height=180 --list --radiolist --text="Select a task:" \
-    --title="Lite Software" --column "Select" --column "Task" --column "Code Task" --hide-column=3 \
+    --title="Lite Software" --column="Select" --column="Task" --column="Code Task" --hide-column=3 \
     --print-column=3 --cancel-label="Quit" TRUE "Install Software" 1 FALSE "Remove Software" 2 FALSE "Exit" 3)
   if [ "${PIPESTATUS[0]}" -ne "0" ]; then
     exit 0
